@@ -1,0 +1,15 @@
+{
+  "name": "aunomay-legal",
+  "description": "Marketplace của Aunomay cho plugin Aunomay Legal: tra cứu pháp luật Việt Nam có trích dẫn từ văn bản chính thức.",
+  "owner": {
+    "name": "Aunomay",
+    "url": "https://aunomay.com"
+  },
+  "plugins": [
+    {
+      "name": "aunomay-legal",
+      "source": "./",
+      "description": "Tra cứu, soạn và rà soát hợp đồng, đối chiếu tuân thủ theo pháp luật Việt Nam, với căn cứ đọc từ toàn văn văn bản có kiểm tra hiệu lực."
+    }
+  ]
+}

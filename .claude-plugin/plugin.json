@@ -1,0 +1,24 @@
+{
+  "name": "aunomay-legal",
+  "description": "Aunomay Legal: tra cứu pháp luật Việt Nam cho Claude, đọc toàn văn từ cơ sở dữ liệu văn bản chính thức, kiểm tra hiệu lực và dẫn đúng số hiệu, Điều, Khoản. Vietnamese legal research with verified citations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aunomay",
+    "url": "https://aunomay.com"
+  },
+  "homepage": "https://legal.aunomay.com",
+  "repository": "https://github.com/aunomay/legal-claude-plugin",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "vietnam",
+    "law",
+    "phap-luat",
+    "tra-cuu-phap-luat",
+    "legal-research",
+    "contracts",
+    "hop-dong",
+    "compliance",
+    "tuan-thu",
+    "mcp"
+  ]
+}
